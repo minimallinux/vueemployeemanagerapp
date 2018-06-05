@@ -1,0 +1,25 @@
+Part 1.
+
+Clone VueFirestore starter
+Rename /src/components/Helloworld.vue to "Dashboard.vue"
+Replace the contents with below
+<template>
+<div id="dashboard">
+<h2>Dashboard</h2>
+</div>
+</template>
+<script>
+export default {
+name: 'dashboard',
+data() {
+  return {
+
+  }
+}
+}
+</script>
+Open /src/router/index.js and change imported component at top from "HelloWorld" to "Dashboard"
+Change the routes export component entries fro HelloWorld to Dashboard
+(name and component values)
+Open up App.vue and remove the logo image.
+In index.html change title to "Employee Manager"
