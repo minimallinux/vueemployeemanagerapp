@@ -20,7 +20,8 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-A Vue JS Firestore (Firebase) starter with firebase config/init files added, change Firebase db api credentials in /src/components/firebaseConfig.js
+A Vue JS Employee Manager project using Firestore (Firebase).
+Change Firebase db api credentials in /src/components/firebaseConfig.js
 
 Also can use Yarn.
 
