@@ -1,11 +1,11 @@
 <template>
 <div id="dashboard">
 <h3>Dashboard</h3>
-<div class="fixed-action-btn">
+<button class="uk-button uk-button-default">
 <router-link to="/new">
 <i class="fa fa-plus"></i>
 </router-link>
-</div>
+</button>
 </div>
 </template>
 <script>
