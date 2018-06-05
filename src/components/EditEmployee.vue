@@ -1,6 +1,6 @@
 <template>
 <div id="edit-employee">
-<h2>Edit Employee</h2>
+<h3>Edit Employee</h3>
 </div>
 </template>
 <script>
